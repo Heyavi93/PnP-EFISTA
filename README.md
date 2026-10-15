@@ -1,9 +1,15 @@
-# PnP-EFISTA-
-Plug-and-Play EFISTA for Image Restoration under High Measurement Noise
+# PnP-EFISTA: Plug-and-Play EFISTA for Image Restoration under High Measurement Noise
 
-[**Avinash Kumar**](https://github.com/Heyavi93/PnP-EFISTA)), Koyyada Dinesh, Sujit Kumar Sahoo
+Official PyTorch implementation of
 
-% [[paper jvci](https://ieeexplore.ieee.org/abstract/document/9454311)]
+> **Plug-and-Play EFISTA for Image Restoration under High Measurement Noise**
+> Avinash Kumar, Koyyada Dinesh Kumar, Sujit Kumar Sahoo
+> School of Electrical Sciences, Indian Institute of Technology Goa
+> *Journal of Visual Communication and Image Representation* (under review)
+
+PnP-EFISTA extends the Enhanced FISTA (EFISTA) of
+[Kumar & Sahoo, SPCOM 2024](https://doi.org/10.1109/SPCOM60851.2024.10631604) to a plug-and-play
+framework.
 
 Abstract
 ----------
@@ -70,3 +76,8 @@ Citation
   doi={10.1109/SPCOM60851.2024.10631604}}
 
 ```
+
+## Contact
+
+Avinash Kumar — avinash20242202@iitgoa.ac.in
+Sujit Kumar Sahoo (corresponding author) — sujit@iitgoa.ac.in
