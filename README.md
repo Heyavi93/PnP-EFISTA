@@ -1,7 +1,7 @@
 # PnP-EFISTA-
 Plug-and-Play EFISTA for Image Restoration under High Measurement Noise
 
-[**Avinash Kumar**](https://github.com/Heyavi93/PnP-EFISTA)/), Koyyada Dinesh, Sujit Kumar Sahoo
+[**Avinash Kumar**](https://github.com/Heyavi93/PnP-EFISTA)), Koyyada Dinesh, Sujit Kumar Sahoo
 
  [[paper jvci](https://ieeexplore.ieee.org/abstract/document/9454311)]
 
@@ -32,7 +32,7 @@ Single Image Super-Resolution
 ----------
 * Quantitative comparison
   
-|  Dataset      |      Noise   |       DPIR         |         RED-Prox        |          PnP-SGD   |        **Proposed**   |
+|  Dataset         |      Noise        |       DPIR           |         RED-Prox        |           PnP-SGD   |        **Proposed**   |
 |:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|
 | Set3c   | 10% | 23.18 / 0.771 | **23.32** / **0.780** | 22.70 / 0.736 | 23.24 / 0.772 |
 | Set3c   | 15% | 22.07 / 0.730 | 22.05 / **0.734** | 21.43 / 0.676 | **22.09** / 0.728 |
