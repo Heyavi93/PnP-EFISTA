@@ -30,6 +30,8 @@ Image Deblurring
 
 Single Image Super-Resolution
 ----------
+* Quantitative comparison
+  
   |  Dataset      |      Noise  |       DPIR        |         RED-Prox        |          PnP-SGD   |        **Proposed** |
 |:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|
 | Set3c   | 10% | 23.18 / 0.771 | **23.32** / **0.780** | 22.70 / 0.736 | 23.24 / 0.772 |
@@ -44,10 +46,6 @@ Single Image Super-Resolution
 * Qualitative comparison
 
   <img src="fig/SC_visual_inspection.png" width="1200px"/>
-
-
-
-
 
 Citation
 ----------
