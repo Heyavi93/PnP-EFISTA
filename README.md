@@ -53,6 +53,16 @@ Single Image Super-Resolution
 
   <img src="fig/SC_visual_inspection.png" width="1200px"/>
 
+## Usage
+
+Run this script to get the PSNR and SSIM table. 
+```bash
+python DC/Test_DC_EFISTA.py
+python SC/Test_SC_EFISTA.py
+```
+or open them in Spyder and press Run. Results are saved to `results/DC/` and `results/SC/`:
+the restored images and one Excel workbook per run.
+
 Citation
 ----------
 ```BibTex
