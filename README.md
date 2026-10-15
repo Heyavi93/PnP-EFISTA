@@ -24,27 +24,19 @@ Image restoration problems, such as image deblurring and super-resolution, remai
 
 The DRUNet Denoiser (state-of-the-art Gaussian denoising performance!)
 ----------
-* Network architecture
-
-  <img src="figs/denoiser_arch.png" width="800px"/> 
-
-* Grayscale image denoising
-
-  <img src="figs/grayscale_psnr.png" width="800px"/> 
-
-* Color image denoising
-
-  <img src="figs/color_psnr.png" width="375px"/> 
   
 |<img align="center" src="figs/test_03_noisy_0750.png" width="320px"/> | <img align="center" src="figs/test_03_usrnet_2355.png" width="320px"/> |
 |:---:|:---:|
 |<i>(a) Noisy image with noise level 200</i>|<i>(b) Result by the proposed DRUNet denoiser</i>|
 
-**Even trained on noise level range of [0, 50], DRUNet can still perform well on an extremely large unseen noise level of 200.**
+**Even trained on a noise level range of [0, 50], DRUNet can still perform well on an extremely large unseen noise level of 200.**
 
 Image Deblurring
 ----------
-* Visual comparison
+* Quantitative comparison
+  
+  <img src="figs/deblur_1.png" width="800px"/> 
+* Qualitative comparison
 
   <img src="figs/deblur_1.png" width="800px"/> 
 
