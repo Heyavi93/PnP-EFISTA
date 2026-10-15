@@ -25,7 +25,7 @@ Image Deblurring
 | CBSD100 | 25% | 20.11 / 0.439 | 23.62 / 0.578 | 22.26 / 0.520 | 20.08 / 0.272 | **23.68** / **0.584** |
 * Qualitative comparison
 
-  <img src="fig/DC_visual_inspection.png" width="800px"/> 
+  <img src="fig/DC_visual_inspection.png" width="1200px"/> 
 
 
 Single Image Super-Resolution
@@ -43,7 +43,7 @@ Single Image Super-Resolution
 
 * Qualitative comparison
 
-  <img src="fig/SC_visual_inspection.png" width="800px"/>
+  <img src="fig/SC_visual_inspection.png" width="1200px"/>
 
 
 
