@@ -1,12 +1,9 @@
 # PnP-EFISTA-
 Plug-and-Play EFISTA for Image Restoration under High Measurement Noise
-# Deep Plug-and-Play Image Restoration
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=cszn/DPIR) 
 
 [**Avinash Kumar**](https://cszn.github.io/), Koyyada Dinesh, Sujit Kumar Sahoo
 
- [[paper tpami](https://ieeexplore.ieee.org/abstract/document/9454311)]
+ [[paper jvci](https://ieeexplore.ieee.org/abstract/document/9454311)]
 
 
 Denoising results on BSD68 and Urban100 datasets
@@ -54,40 +51,36 @@ Image Deblurring
 
 Single Image Super-Resolution
 ----------
-* Visual comparison
+* Quantitative comparison
+  
+* Qualitative comparison
 
   <img src="figs/sisr_1.png" width="800px"/> 
 
 
-Color Image Demosaicing
-----------
-* PSNR
-
-  <img src="figs/demosaic_1.png" width="800px"/> 
-
-* Visual comparison
-
-  <img src="figs/demosaic_2.png" width="800px"/> 
 
 
 
 Citation
 ----------
 ```BibTex
-@article{zhang2021plug,
-  title={Plug-and-Play Image Restoration with Deep Denoiser Prior},
-  author={Zhang, Kai and Li, Yawei and Zuo, Wangmeng and Zhang, Lei and Van Gool, Luc and Timofte, Radu},
-  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
-  volume={44},
-  number={10},
-  pages={6360-6376},
-  year={2021}
+@article{kumar2026pnpefista,
+  title   = {Plug-and-Play EFISTA for Image Restoration under High Measurement Noise},
+  author  = {Kumar, Avinash and Kumar, Koyyada Dinesh and Sahoo, Sujit Kumar},
+  journal = {Journal of Visual Communication and Image Representation},
+  year    = {2026},
+  note    = {Under review}
 }
- @inproceedings{zhang2017learning,
-   title={Learning Deep CNN Denoiser Prior for Image Restoration},
-   author={Zhang, Kai and Zuo, Wangmeng and Gu, Shuhang and Zhang, Lei},
-   booktitle={IEEE Conference on Computer Vision and Pattern Recognition},
-   pages={3929--3938},
-   year={2017},
- }
+
+@INPROCEEDINGS{Avinash2024EFISTA_NBID,
+  author={Kumar, Avinash and Sahoo, Sujit Kumar},
+  booktitle={2024 International Conference on Signal Processing and Communications (SPCOM)}, 
+  title={Enhanced FISTA for Non-Blind Image Deblurring}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-5},
+  keywords={PSNR;Thresholding (Imaging);AWGN;Simulation;Noise;Signal processing algorithms;Robustness;Inverse Problems;Image deblurring;Denoising;FISTA;EFISTA;Gradient Descent;Convergence Speed;Execution Time},
+  doi={10.1109/SPCOM60851.2024.10631604}}
+
 ```
