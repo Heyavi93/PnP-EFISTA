@@ -35,19 +35,20 @@ Image Deblurring
 ----------
 * Quantitative comparison
   
-  <img src="figs/deblur_1.png" width="800px"/> 
+  <img src="fig/DC_psnr.png" width="800px"/> 
 * Qualitative comparison
 
-  <img src="figs/deblur_1.png" width="800px"/> 
+  <img src="fig/DC_visual_inspection.png" width="800px"/> 
 
 
 Single Image Super-Resolution
 ----------
 * Quantitative comparison
   
+  <img src="fig/SC_psnr.png" width="800px"/> 
 * Qualitative comparison
 
-  <img src="figs/sisr_1.png" width="800px"/> 
+  <img src="fig/SC_visual_inspection.png" width="800px"/>
 
 
 
