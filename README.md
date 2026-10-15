@@ -34,8 +34,8 @@ The DRUNet Denoiser (state-of-the-art Gaussian denoising performance!)
 Image Deblurring
 ----------
 * Quantitative comparison
-  * Quantitative comparison (PSNR / SSIM, best in bold)
-|  Dataset  | Noise (σ) | DWDN | DPIR | RED-Prox | PnP-SGD | **Proposed** |
+  
+|  Dataset  | Noise (σ) |     DWDN     |       DPIR |            RED-Prox      |         PnP-SGD       |       **Proposed** |
 |:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|
 | Set3c   | 10% | 23.71 / 0.810 | 25.31 / 0.837 | 25.53 / 0.841 | 24.33 / 0.735 | **25.67** / **0.847** |
 | Set3c   | 15% | 21.85 / 0.727 | 23.61 / 0.790 | 23.69 / 0.788 | 22.18 / 0.635 | **24.18** / **0.811** |
