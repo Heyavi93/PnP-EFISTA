@@ -1,0 +1,16 @@
+torch>=1.13
+torchvision
+numpy<2.0            # hdf5storage 0.1.x (kernel .mat files) is not compatible with NumPy 2
+scipy<1.14           # utils_snore uses scipy.interpolate.interp2d (removed in SciPy 1.14)
+opencv-python
+scikit-image>=0.19
+matplotlib
+pandas
+openpyxl
+hdf5storage
+lpips
+piq
+natsort
+tqdm
+pytorch-lightning    # GS-DRUNet denoiser (RED-Prox, PnP-SGD)
+torchmetrics
