@@ -1,7 +1,7 @@
 # PnP-EFISTA-
 Plug-and-Play EFISTA for Image Restoration under High Measurement Noise
 
-[**Avinash Kumar**](https://cszn.github.io/), Koyyada Dinesh, Sujit Kumar Sahoo
+[**Avinash Kumar**](https://github.com/Heyavi93/PnP-EFISTA)/), Koyyada Dinesh, Sujit Kumar Sahoo
 
  [[paper jvci](https://ieeexplore.ieee.org/abstract/document/9454311)]
 
