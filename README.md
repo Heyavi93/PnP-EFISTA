@@ -7,9 +7,7 @@ Official PyTorch implementation of
 > School of Electrical Sciences, Indian Institute of Technology Goa
 > *Journal of Visual Communication and Image Representation* (under review)
 
-PnP-EFISTA extends the Enhanced FISTA (EFISTA) of
-[Kumar & Sahoo, SPCOM 2024](https://doi.org/10.1109/SPCOM60851.2024.10631604) to a plug-and-play
-framework.
+We present PnP-EFISTA, transforming the traditional Enhanced FISTA (EFISTA) algorithm [Kumar & Sahoo, SPCOM 2024](https://doi.org/10.1109/SPCOM60851.2024.10631604) into a powerful plug-and-play architecture that seamlessly integrates learned priors, delivering robust performance across extensive real-world benchmarks.
 
 Abstract
 ----------
