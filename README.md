@@ -70,7 +70,7 @@ Citation
   author  = {Kumar, Avinash and Kumar, Koyyada Dinesh and Sahoo, Sujit Kumar},
   journal = {Journal of Visual Communication and Image Representation},
   year    = {2026},
-  note    = {Under review}
+  note    = {provisionally accepted}
 }
 ```
 
