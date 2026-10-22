@@ -72,18 +72,6 @@ Citation
   year    = {2026},
   note    = {Under review}
 }
-
-@INPROCEEDINGS{Avinash2024EFISTA_NBID,
-  author={Kumar, Avinash and Sahoo, Sujit Kumar},
-  booktitle={2024 International Conference on Signal Processing and Communications (SPCOM)}, 
-  title={Enhanced FISTA for Non-Blind Image Deblurring}, 
-  year={2024},
-  volume={},
-  number={},
-  pages={1-5},
-  keywords={PSNR;Thresholding (Imaging);AWGN;Simulation;Noise;Signal processing algorithms;Robustness;Inverse Problems;Image deblurring;Denoising;FISTA;EFISTA;Gradient Descent;Convergence Speed;Execution Time},
-  doi={10.1109/SPCOM60851.2024.10631604}}
-
 ```
 
 ## Contact
